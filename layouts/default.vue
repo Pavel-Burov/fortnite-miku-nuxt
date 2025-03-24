@@ -1,0 +1,1 @@
+<template>\n  <div>\n    <TheHeader />\n    <Nuxt />\n    <TheFooter />\n  </div>\n</template>\n\n<script>\nexport default {\n  name: 'DefaultLayout'\n}\n</script>
